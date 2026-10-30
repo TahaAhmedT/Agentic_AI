@@ -16,6 +16,8 @@ dependencies = [
     "langchain-tavily>=0.2.18",
     "langsmith>=0.14.12",
     "mcp>=1.30.0",
+    "pymupdf>=2.0",
+    "pypdf>=6.21.4",
 ]
 
 [tool.uv]
