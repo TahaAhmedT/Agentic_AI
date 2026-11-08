@@ -10,6 +10,8 @@ __pycache__/
 .Python
 build/
 develop-eggs/
+RAG/data/
+RAG/faiss_store
 dist/
 downloads/
 eggs/
